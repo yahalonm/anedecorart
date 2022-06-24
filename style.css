@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+a{
+  text-decoration: none;
+}
+
+img{
+  width: 65%;
+  height: auto;
+}
+
+body{
+  font: 400 1rem "DM Sans" , sans-serif ;
+}
+
+h1{
+  font: 400 1rem "Poppigns" , sans-serif ;
+}
+
+:root{
+  
+}
+
+#header{
+ height: 4.5rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo{
+
+}
+
+.container{
+  width: 100%;
+  margin-left: 1.5rem ;
+  margin-right: 1.5rem;
+  
+}
